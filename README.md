@@ -11,3 +11,4 @@ I coded this with some help from AI, specifically Vercel V0 and CursorAI... but 
 
 If you face any issues, please feel free to dm me on IG @yeoshinoya! 
 I'm not a professional coder ok! Give chance! HAHAHA
+BUT IF THIS RLLY HELPED YA OUT AND YOU LIKE IT A LOT, PLEASE LMK!!! 
