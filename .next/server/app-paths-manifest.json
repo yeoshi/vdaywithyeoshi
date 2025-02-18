@@ -1,0 +1,5 @@
+{
+  "/photo-album/page": "app/photo-album/page.js",
+  "/flower/page": "app/flower/page.js",
+  "/page": "app/page.js"
+}
